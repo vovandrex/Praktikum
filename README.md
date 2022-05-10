@@ -1,6 +1,5 @@
 # Praktikum
-Praktikum
-[![](https://github.com/vovandrex/Praktikum/blob/master/практикум.jpg](https://praktikum.yandex.ru/ "Яндекс практикум")
+![](https://github.com/vovandrex/Praktikum/blob/master/практикум.jpg](https://praktikum.yandex.ru/ "Яндекс практикум")
 
 ## Описание моих проектов. 
 **№** |**Описание проекта** |**Навыки и инструменты**
